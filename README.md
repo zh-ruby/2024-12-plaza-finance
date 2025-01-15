@@ -17,7 +17,7 @@ ___
 
 ### Q: Are there any limitations on values set by admins (or other roles) in the codebase, including restrictions on array lengths?
 Owner & GOV_ROLE are trusted parties.
-DISTRIBUTOR_ROLE should only be given to Distributor contract & MINTER_ROLE should only be given to Pool.
+DISTRIBUTOR_ROLE should be given to Distributor and Pool contracts & MINTER_ROLE should only be given to Pool.
 SECURITY_COUNCIL_ROLE should only be trusted to pause/unpause contracts.
 
 ___
